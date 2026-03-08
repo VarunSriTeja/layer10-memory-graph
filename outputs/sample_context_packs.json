@@ -1,0 +1,4119 @@
+[
+  {
+    "query": "What terminal bugs were reported recently?",
+    "result": {
+      "query": "What terminal bugs were reported recently?",
+      "summary": "Found 20 relevant claims involving 8 Issue(s), 5 Person(s), 3 Component(s).",
+      "entities": [
+        {
+          "id": "issue:293911",
+          "type": "Issue",
+          "canonical_name": "when runing opus 6 agents it frezes ",
+          "properties": {
+            "number": 293911,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/293911",
+            "created_at": "2026-02-09T16:28:04Z",
+            "closed_at": "2026-03-08T11:34:44Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "person:pbaksa",
+          "type": "Person",
+          "canonical_name": "pbaksa",
+          "properties": {
+            "github_id": 5570057,
+            "url": "https://github.com/pbaksa",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5570057?v=4"
+          }
+        },
+        {
+          "id": "issue:299807",
+          "type": "Issue",
+          "canonical_name": "update failing to install on Windows",
+          "properties": {
+            "number": 299807,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299807",
+            "created_at": "2026-03-06T16:39:29Z",
+            "closed_at": null,
+            "comments_count": 3
+          }
+        },
+        {
+          "id": "issue:300056",
+          "type": "Issue",
+          "canonical_name": "Unusably slow",
+          "properties": {
+            "number": 300056,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300056",
+            "created_at": "2026-03-08T12:31:32Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "component:editor",
+          "type": "Component",
+          "canonical_name": "Editor",
+          "properties": {}
+        },
+        {
+          "id": "issue:300053",
+          "type": "Issue",
+          "canonical_name": "Add \"Move To -> Editor Area\" to Integrated Terminal Panel Context Menu",
+          "properties": {
+            "number": 300053,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300053",
+            "created_at": "2026-03-08T11:30:21Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "component:extension",
+          "type": "Component",
+          "canonical_name": "Extension",
+          "properties": {}
+        },
+        {
+          "id": "issue:299786",
+          "type": "Issue",
+          "canonical_name": "paste is slow with copilot",
+          "properties": {
+            "number": 299786,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299786",
+            "created_at": "2026-03-06T15:41:08Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:294662",
+          "type": "Issue",
+          "canonical_name": "Missing response output for copilot",
+          "properties": {
+            "number": 294662,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/294662",
+            "created_at": "2026-02-11T19:45:25Z",
+            "closed_at": "2026-03-08T11:34:37Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "person:amunger",
+          "type": "Person",
+          "canonical_name": "amunger",
+          "properties": {
+            "github_id": 2019016,
+            "url": "https://github.com/amunger",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2019016?v=4"
+          }
+        },
+        {
+          "id": "person:mikelward",
+          "type": "Person",
+          "canonical_name": "mikelward",
+          "properties": {
+            "github_id": 107462,
+            "url": "https://github.com/mikelward",
+            "avatar_url": "https://avatars.githubusercontent.com/u/107462?v=4"
+          }
+        },
+        {
+          "id": "person:savu-a",
+          "type": "Person",
+          "canonical_name": "savu-a",
+          "properties": {
+            "github_id": 123734715,
+            "url": "https://github.com/savu-a",
+            "avatar_url": "https://avatars.githubusercontent.com/u/123734715?v=4"
+          }
+        },
+        {
+          "id": "issue:299919",
+          "type": "Issue",
+          "canonical_name": "Fish shell frozen in WSL temrinal",
+          "properties": {
+            "number": 299919,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299919",
+            "created_at": "2026-03-07T07:03:06Z",
+            "closed_at": null,
+            "comments_count": 4
+          }
+        },
+        {
+          "id": "person:knuddy-ai",
+          "type": "Person",
+          "canonical_name": "Knuddy-ai",
+          "properties": {
+            "github_id": 256777827,
+            "url": "https://github.com/Knuddy-ai",
+            "avatar_url": "https://avatars.githubusercontent.com/u/256777827?v=4"
+          }
+        },
+        {
+          "id": "issue:298482",
+          "type": "Issue",
+          "canonical_name": "SCAMERS ",
+          "properties": {
+            "number": 298482,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/298482",
+            "created_at": "2026-02-28T19:51:47Z",
+            "closed_at": null,
+            "comments_count": 9
+          }
+        },
+        {
+          "id": "component:terminal",
+          "type": "Component",
+          "canonical_name": "Terminal",
+          "properties": {}
+        }
+      ],
+      "claims": [
+        {
+          "id": "claim:issue:299786-reported-by-pbaksa",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299786",
+          "object_id": "person:pbaksa",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 48,
+              "source_type": "issue_body",
+              "source_id": "issue:299786:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "\nType: <b>Bug</b>\n\nWith a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text (~5 normal lines of code).\nIt shows some spinning icon.\nIt looks like syntax highlighting (when typing text) is also lower priority than copilot processing.\nThis happened since the last update got installed.\n\nVS Code version: Code 1.110.0 (0870c2a0c7c0564e7631bfed2675573a94ba4455, 2026-03-04T01:20:28.863Z)\nOS version: Windows_NT x64 10.0.22631\nModes:\n\n\n",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": "person:pbaksa"
+            },
+            {
+              "id": 49,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "Author: pbaksa",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-reported-by-amunger",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299807",
+          "object_id": "person:amunger",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 9,
+              "source_type": "issue_body",
+              "source_id": "issue:299807:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": "person:amunger"
+            },
+            {
+              "id": 13,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-reported-by-mikelward",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300053",
+          "object_id": "person:mikelward",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 26,
+              "source_type": "issue_body",
+              "source_id": "issue:300053:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": "person:mikelward"
+            },
+            {
+              "id": 28,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Author: mikelward",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-reported-by-savu-a",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:293911",
+          "object_id": "person:savu-a",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 62,
+              "source_type": "issue_body",
+              "source_id": "issue:293911:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": "person:savu-a"
+            },
+            {
+              "id": 63,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Title: when runing opus 6 agents it frezes",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299786",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 51,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299919",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 36,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-has-label-bug",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "bug",
+            "color": "8D6673"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 10,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:bug",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: bug",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 30,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "When you right-click inside the integrated terminal panel",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-has-label-new release",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:300056",
+          "object_id": null,
+          "value": {
+            "label": "new release",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 2,
+              "source_type": "issue_label",
+              "source_id": "issue:300056:label:new release",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "Label: new release",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-has-label-install-update",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "install-update",
+            "color": "c5def5"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 11,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:install-update",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: install-update",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299807",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 15,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Failed to install Visual Studio Code update.",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-has-label-windows",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "windows",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 12,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:windows",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: windows",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:294662-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:294662",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 68,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/294662",
+              "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+              "timestamp": "2026-02-11T19:45:25+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300056",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 7,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 31,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:298482",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 24,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 66,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "VS Code version: Code 1.108.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-reported-by-Knuddy-ai",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300056",
+          "object_id": "person:knuddy-ai",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:extension",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 65,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Extension version: 0.36.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-has-label-new release",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299786",
+          "object_id": null,
+          "value": {
+            "label": "new release",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        }
+      ],
+      "evidence_snippets": [
+        {
+          "id": 48,
+          "source_type": "issue_body",
+          "source_id": "issue:299786:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "\nType: <b>Bug</b>\n\nWith a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text (~5 normal lines of code).\nIt shows some spinning icon.\nIt looks like syntax highlighting (when typing text) is also lower priority than copilot processing.\nThis happened since the last update got installed.\n\nVS Code version: Code 1.110.0 (0870c2a0c7c0564e7631bfed2675573a94ba4455, 2026-03-04T01:20:28.863Z)\nOS version: Windows_NT x64 10.0.22631\nModes:\n\n\n",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": "person:pbaksa"
+        },
+        {
+          "id": 49,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "Author: pbaksa",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 9,
+          "source_type": "issue_body",
+          "source_id": "issue:299807:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": "person:amunger"
+        },
+        {
+          "id": 13,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 26,
+          "source_type": "issue_body",
+          "source_id": "issue:300053:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": "person:mikelward"
+        },
+        {
+          "id": 28,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Author: mikelward",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 62,
+          "source_type": "issue_body",
+          "source_id": "issue:293911:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": "person:savu-a"
+        },
+        {
+          "id": 63,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Title: when runing opus 6 agents it frezes",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 51,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 36,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 10,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:bug",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: bug",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 30,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "When you right-click inside the integrated terminal panel",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 2,
+          "source_type": "issue_label",
+          "source_id": "issue:300056:label:new release",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "Label: new release",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 11,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:install-update",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: install-update",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 15,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Failed to install Visual Studio Code update.",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 12,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:windows",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: windows",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 68,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/294662",
+          "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+          "timestamp": "2026-02-11T19:45:25+00:00",
+          "author_id": null
+        },
+        {
+          "id": 7,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 31,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 24,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        }
+      ],
+      "citations": [
+        "[1] https://github.com/microsoft/vscode/issues/299786",
+        "[2] https://github.com/microsoft/vscode/issues/299786",
+        "[3] https://github.com/microsoft/vscode/issues/299807",
+        "[4] https://github.com/microsoft/vscode/issues/299807",
+        "[5] https://github.com/microsoft/vscode/issues/300053",
+        "[6] https://github.com/microsoft/vscode/issues/300053",
+        "[7] https://github.com/microsoft/vscode/issues/293911",
+        "[8] https://github.com/microsoft/vscode/issues/293911",
+        "[9] https://github.com/microsoft/vscode/issues/299786",
+        "[10] https://github.com/microsoft/vscode/issues/299919"
+      ],
+      "confidence": 0.7799268453856445,
+      "ambiguities": [
+        {
+          "subject": "issue:299807",
+          "claim_type": "HAS_LABEL",
+          "conflicting_values": [
+            "{\"label\": \"install-update\", \"color\": \"c5def5\"}",
+            "{\"label\": \"windows\", \"color\": \"006b75\"}",
+            "{\"label\": \"bug\", \"color\": \"8D6673\"}"
+          ],
+          "claims": [
+            "claim:issue:299807-has-label-bug",
+            "claim:issue:299807-has-label-install-update",
+            "claim:issue:299807-has-label-windows"
+          ]
+        },
+        {
+          "subject": "issue:300053",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:terminal",
+            "component:editor"
+          ],
+          "claims": [
+            "claim:issue:300053-llm-affects_component-2",
+            "claim:issue:300053-llm-affects_component-3"
+          ]
+        },
+        {
+          "subject": "issue:293911",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:editor",
+            "component:extension"
+          ],
+          "claims": [
+            "claim:issue:293911-llm-affects_component-3",
+            "claim:issue:293911-llm-affects_component-2"
+          ]
+        }
+      ],
+      "metadata": {
+        "entities_searched": 16,
+        "claims_evaluated": 55,
+        "retrieval_time_ms": 1155.0990000000002,
+        "intent": {
+          "entity_types": [],
+          "claim_types": [
+            "REPORTED_BY",
+            "AFFECTS_COMPONENT",
+            "HAS_LABEL"
+          ],
+          "components": [
+            "terminal"
+          ],
+          "time_filter": "2026-02-06 17:01:43.079697+00:00",
+          "keywords": [
+            "terminal",
+            "bugs",
+            "reported",
+            "recently"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "query": "Which issues were fixed by pull requests?",
+    "result": {
+      "query": "Which issues were fixed by pull requests?",
+      "summary": "Found 20 relevant claims involving 9 Issue(s), 9 Person(s), 4 Component(s).",
+      "entities": [
+        {
+          "id": "issue:300053",
+          "type": "Issue",
+          "canonical_name": "Add \"Move To -> Editor Area\" to Integrated Terminal Panel Context Menu",
+          "properties": {
+            "number": 300053,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300053",
+            "created_at": "2026-03-08T11:30:21Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "person:mikelward",
+          "type": "Person",
+          "canonical_name": "mikelward",
+          "properties": {
+            "github_id": 107462,
+            "url": "https://github.com/mikelward",
+            "avatar_url": "https://avatars.githubusercontent.com/u/107462?v=4"
+          }
+        },
+        {
+          "id": "component:copilot-chat",
+          "type": "Component",
+          "canonical_name": "Copilot Chat",
+          "properties": {}
+        },
+        {
+          "id": "component:terminal",
+          "type": "Component",
+          "canonical_name": "Terminal",
+          "properties": {}
+        },
+        {
+          "id": "person:bxf1001g",
+          "type": "Person",
+          "canonical_name": "bxf1001g",
+          "properties": {
+            "github_id": 183284028,
+            "url": "https://github.com/bxf1001g",
+            "avatar_url": "https://avatars.githubusercontent.com/u/183284028?v=4"
+          }
+        },
+        {
+          "id": "person:pbaksa",
+          "type": "Person",
+          "canonical_name": "pbaksa",
+          "properties": {
+            "github_id": 5570057,
+            "url": "https://github.com/pbaksa",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5570057?v=4"
+          }
+        },
+        {
+          "id": "issue:295745",
+          "type": "Issue",
+          "canonical_name": "Chat session history lost when using third-party model agents (Claude) via Copilot Chat",
+          "properties": {
+            "number": 295745,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/295745",
+            "created_at": "2026-02-17T11:42:47Z",
+            "closed_at": null,
+            "comments_count": 15
+          }
+        },
+        {
+          "id": "component:extension",
+          "type": "Component",
+          "canonical_name": "Extension",
+          "properties": {}
+        },
+        {
+          "id": "issue:299786",
+          "type": "Issue",
+          "canonical_name": "paste is slow with copilot",
+          "properties": {
+            "number": 299786,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299786",
+            "created_at": "2026-03-06T15:41:08Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:298482",
+          "type": "Issue",
+          "canonical_name": "SCAMERS ",
+          "properties": {
+            "number": 298482,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/298482",
+            "created_at": "2026-02-28T19:51:47Z",
+            "closed_at": null,
+            "comments_count": 9
+          }
+        },
+        {
+          "id": "issue:293911",
+          "type": "Issue",
+          "canonical_name": "when runing opus 6 agents it frezes ",
+          "properties": {
+            "number": 293911,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/293911",
+            "created_at": "2026-02-09T16:28:04Z",
+            "closed_at": "2026-03-08T11:34:44Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "issue:294662",
+          "type": "Issue",
+          "canonical_name": "Missing response output for copilot",
+          "properties": {
+            "number": 294662,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/294662",
+            "created_at": "2026-02-11T19:45:25Z",
+            "closed_at": "2026-03-08T11:34:37Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "person:savu-a",
+          "type": "Person",
+          "canonical_name": "savu-a",
+          "properties": {
+            "github_id": 123734715,
+            "url": "https://github.com/savu-a",
+            "avatar_url": "https://avatars.githubusercontent.com/u/123734715?v=4"
+          }
+        },
+        {
+          "id": "person:alexprorbp",
+          "type": "Person",
+          "canonical_name": "alexprorbp",
+          "properties": {
+            "github_id": 22271170,
+            "url": "https://github.com/alexprorbp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22271170?v=4"
+          }
+        },
+        {
+          "id": "issue:299807",
+          "type": "Issue",
+          "canonical_name": "update failing to install on Windows",
+          "properties": {
+            "number": 299807,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299807",
+            "created_at": "2026-03-06T16:39:29Z",
+            "closed_at": null,
+            "comments_count": 3
+          }
+        },
+        {
+          "id": "component:editor",
+          "type": "Component",
+          "canonical_name": "Editor",
+          "properties": {}
+        },
+        {
+          "id": "issue:300056",
+          "type": "Issue",
+          "canonical_name": "Unusably slow",
+          "properties": {
+            "number": 300056,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300056",
+            "created_at": "2026-03-08T12:31:32Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "person:ryanminescfd",
+          "type": "Person",
+          "canonical_name": "RyanMinesCFD",
+          "properties": {
+            "github_id": 196832397,
+            "url": "https://github.com/RyanMinesCFD",
+            "avatar_url": "https://avatars.githubusercontent.com/u/196832397?v=4"
+          }
+        },
+        {
+          "id": "person:amunger",
+          "type": "Person",
+          "canonical_name": "amunger",
+          "properties": {
+            "github_id": 2019016,
+            "url": "https://github.com/amunger",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2019016?v=4"
+          }
+        },
+        {
+          "id": "person:knuddy-ai",
+          "type": "Person",
+          "canonical_name": "Knuddy-ai",
+          "properties": {
+            "github_id": 256777827,
+            "url": "https://github.com/Knuddy-ai",
+            "avatar_url": "https://avatars.githubusercontent.com/u/256777827?v=4"
+          }
+        },
+        {
+          "id": "person:tsangwpx",
+          "type": "Person",
+          "canonical_name": "tsangwpx",
+          "properties": {
+            "github_id": 1143023,
+            "url": "https://github.com/tsangwpx",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1143023?v=4"
+          }
+        },
+        {
+          "id": "issue:299919",
+          "type": "Issue",
+          "canonical_name": "Fish shell frozen in WSL temrinal",
+          "properties": {
+            "number": 299919,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299919",
+            "created_at": "2026-03-07T07:03:06Z",
+            "closed_at": null,
+            "comments_count": 4
+          }
+        }
+      ],
+      "claims": [
+        {
+          "id": "claim:issue:299786-reported-by-pbaksa",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299786",
+          "object_id": "person:pbaksa",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 48,
+              "source_type": "issue_body",
+              "source_id": "issue:299786:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "\nType: <b>Bug</b>\n\nWith a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text (~5 normal lines of code).\nIt shows some spinning icon.\nIt looks like syntax highlighting (when typing text) is also lower priority than copilot processing.\nThis happened since the last update got installed.\n\nVS Code version: Code 1.110.0 (0870c2a0c7c0564e7631bfed2675573a94ba4455, 2026-03-04T01:20:28.863Z)\nOS version: Windows_NT x64 10.0.22631\nModes:\n\n\n",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": "person:pbaksa"
+            },
+            {
+              "id": 49,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "Author: pbaksa",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-reported-by-amunger",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299807",
+          "object_id": "person:amunger",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 9,
+              "source_type": "issue_body",
+              "source_id": "issue:299807:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": "person:amunger"
+            },
+            {
+              "id": 13,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-reported-by-tsangwpx",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299919",
+          "object_id": "person:tsangwpx",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 32,
+              "source_type": "issue_body",
+              "source_id": "issue:299919:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! bug_report_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- \ud83d\udd6e Read our guide about submitting issues: https://github.com/microsoft/vscode/wiki/Submitting-Bugs-and-Suggestions -->\n<!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->\n<!-- \ud83e\uddea Test using the latest Insiders build to see if your issue has already been fixed: https://code.visualstudio.com/insiders/ -->\n<!-- \ud83d\udca1 Instead of creating yo",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": "person:tsangwpx"
+            },
+            {
+              "id": 34,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299919-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "Title: Fish shell frozen in WSL temrinal",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-reported-by-mikelward",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300053",
+          "object_id": "person:mikelward",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 26,
+              "source_type": "issue_body",
+              "source_id": "issue:300053:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": "person:mikelward"
+            },
+            {
+              "id": 28,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Author: mikelward",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-reported-by-alexprorbp",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:298482",
+          "object_id": "person:alexprorbp",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 19,
+              "source_type": "issue_body",
+              "source_id": "issue:298482:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "\nType: <b>Bug</b>\n\nI JUST WANT TO LET YOU KNOW YALL MODELS NOT FIXING JUST DESTROYING WORKING PROGECT AND CANT BILD IT BACK IWILL BE FILE PETITIONS IN SUPERIOR CORT CIVIC RIGTH YOU GUYS DESTORY MY APP \n\nExtension version: 0.37.9\nVS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)\nOS version: Windows_NT x64 10.0.26200\nModes:\n\n<details>\n<summary>System Info</summary>\n\n|Item|Value|\n|---|---|\n|CPUs|Intel(R) Core(TM) Ultra 9 285K (24 x 3686)|\n|GPU Status",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": "person:alexprorbp"
+            },
+            {
+              "id": 22,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "Created by alexprorbp",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:295745-reported-by-bxf1001g",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:295745",
+          "object_id": "person:bxf1001g",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-17T11:42:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 40,
+              "source_type": "issue_body",
+              "source_id": "issue:295745:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/295745",
+              "excerpt": " <!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! bug_report_template \u26a0\ufe0f\u26a0\ufe0f -->\n  <!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n  <!-- \ud83d\udd6e Read our guide about submitting issues:\n  https://github.com/microsoft/vscode/wiki/Submitting-Bugs-and-Suggestions -->\n  <!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->\n  <!-- \ud83e\uddea Test using the latest Insiders build to see if your issue has already been fixed:\n  https://code.visualstudio.com/insiders/ -->\n  <!-- \ud83d\udca1 Instead",
+              "timestamp": "2026-02-17T11:42:47+00:00",
+              "author_id": "person:bxf1001g"
+            },
+            {
+              "id": 44,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:295745-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/295745",
+              "excerpt": "When using a third-party model (Claude 4.6 Sonnet) through Copilot Chat's model/agent selection (Plan agent), chat sessions are not preserved in the SESSIONS panel after VS Code closes or crashes.",
+              "timestamp": "2026-02-17T11:42:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-reported-by-savu-a",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:293911",
+          "object_id": "person:savu-a",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 62,
+              "source_type": "issue_body",
+              "source_id": "issue:293911:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": "person:savu-a"
+            },
+            {
+              "id": 63,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Title: when runing opus 6 agents it frezes",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299786",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 51,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299919",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 36,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 30,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "When you right-click inside the integrated terminal panel",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 31,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:295745-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:295745",
+          "object_id": "component:copilot-chat",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-17T11:42:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 46,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:295745-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/295745",
+              "excerpt": "Does this issue occur when all extensions are disabled?: No (requires GitHub Copilot Chat extension)",
+              "timestamp": "2026-02-17T11:42:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300056",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 7,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:extension",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 65,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Extension version: 0.36.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299807",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 15,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Failed to install Visual Studio Code update.",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:294662-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:294662",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 68,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/294662",
+              "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+              "timestamp": "2026-02-11T19:45:25+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 66,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "VS Code version: Code 1.108.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:298482",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 24,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-reported-by-Knuddy-ai",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300056",
+          "object_id": "person:knuddy-ai",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:294662-reported-by-RyanMinesCFD",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:294662",
+          "object_id": "person:ryanminescfd",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        }
+      ],
+      "evidence_snippets": [
+        {
+          "id": 48,
+          "source_type": "issue_body",
+          "source_id": "issue:299786:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "\nType: <b>Bug</b>\n\nWith a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text (~5 normal lines of code).\nIt shows some spinning icon.\nIt looks like syntax highlighting (when typing text) is also lower priority than copilot processing.\nThis happened since the last update got installed.\n\nVS Code version: Code 1.110.0 (0870c2a0c7c0564e7631bfed2675573a94ba4455, 2026-03-04T01:20:28.863Z)\nOS version: Windows_NT x64 10.0.22631\nModes:\n\n\n",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": "person:pbaksa"
+        },
+        {
+          "id": 49,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "Author: pbaksa",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 9,
+          "source_type": "issue_body",
+          "source_id": "issue:299807:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": "person:amunger"
+        },
+        {
+          "id": 13,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 32,
+          "source_type": "issue_body",
+          "source_id": "issue:299919:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! bug_report_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- \ud83d\udd6e Read our guide about submitting issues: https://github.com/microsoft/vscode/wiki/Submitting-Bugs-and-Suggestions -->\n<!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->\n<!-- \ud83e\uddea Test using the latest Insiders build to see if your issue has already been fixed: https://code.visualstudio.com/insiders/ -->\n<!-- \ud83d\udca1 Instead of creating yo",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": "person:tsangwpx"
+        },
+        {
+          "id": 34,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299919-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "Title: Fish shell frozen in WSL temrinal",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 26,
+          "source_type": "issue_body",
+          "source_id": "issue:300053:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": "person:mikelward"
+        },
+        {
+          "id": 28,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Author: mikelward",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 19,
+          "source_type": "issue_body",
+          "source_id": "issue:298482:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "\nType: <b>Bug</b>\n\nI JUST WANT TO LET YOU KNOW YALL MODELS NOT FIXING JUST DESTROYING WORKING PROGECT AND CANT BILD IT BACK IWILL BE FILE PETITIONS IN SUPERIOR CORT CIVIC RIGTH YOU GUYS DESTORY MY APP \n\nExtension version: 0.37.9\nVS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)\nOS version: Windows_NT x64 10.0.26200\nModes:\n\n<details>\n<summary>System Info</summary>\n\n|Item|Value|\n|---|---|\n|CPUs|Intel(R) Core(TM) Ultra 9 285K (24 x 3686)|\n|GPU Status",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": "person:alexprorbp"
+        },
+        {
+          "id": 22,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:298482-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "Created by alexprorbp",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 40,
+          "source_type": "issue_body",
+          "source_id": "issue:295745:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/295745",
+          "excerpt": " <!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! bug_report_template \u26a0\ufe0f\u26a0\ufe0f -->\n  <!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n  <!-- \ud83d\udd6e Read our guide about submitting issues:\n  https://github.com/microsoft/vscode/wiki/Submitting-Bugs-and-Suggestions -->\n  <!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->\n  <!-- \ud83e\uddea Test using the latest Insiders build to see if your issue has already been fixed:\n  https://code.visualstudio.com/insiders/ -->\n  <!-- \ud83d\udca1 Instead",
+          "timestamp": "2026-02-17T11:42:47+00:00",
+          "author_id": "person:bxf1001g"
+        },
+        {
+          "id": 44,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:295745-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/295745",
+          "excerpt": "When using a third-party model (Claude 4.6 Sonnet) through Copilot Chat's model/agent selection (Plan agent), chat sessions are not preserved in the SESSIONS panel after VS Code closes or crashes.",
+          "timestamp": "2026-02-17T11:42:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 62,
+          "source_type": "issue_body",
+          "source_id": "issue:293911:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": "person:savu-a"
+        },
+        {
+          "id": 63,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Title: when runing opus 6 agents it frezes",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 51,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 36,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 30,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "When you right-click inside the integrated terminal panel",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 31,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 46,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:295745-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/295745",
+          "excerpt": "Does this issue occur when all extensions are disabled?: No (requires GitHub Copilot Chat extension)",
+          "timestamp": "2026-02-17T11:42:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 7,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        }
+      ],
+      "citations": [
+        "[1] https://github.com/microsoft/vscode/issues/299786",
+        "[2] https://github.com/microsoft/vscode/issues/299786",
+        "[3] https://github.com/microsoft/vscode/issues/299807",
+        "[4] https://github.com/microsoft/vscode/issues/299807",
+        "[5] https://github.com/microsoft/vscode/issues/299919",
+        "[6] https://github.com/microsoft/vscode/issues/299919",
+        "[7] https://github.com/microsoft/vscode/issues/300053",
+        "[8] https://github.com/microsoft/vscode/issues/300053",
+        "[9] https://github.com/microsoft/vscode/issues/298482",
+        "[10] https://github.com/microsoft/vscode/issues/298482"
+      ],
+      "confidence": 0.7628270957795049,
+      "ambiguities": [
+        {
+          "subject": "issue:300053",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:terminal",
+            "component:editor"
+          ],
+          "claims": [
+            "claim:issue:300053-llm-affects_component-2",
+            "claim:issue:300053-llm-affects_component-3"
+          ]
+        },
+        {
+          "subject": "issue:293911",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:editor",
+            "component:extension"
+          ],
+          "claims": [
+            "claim:issue:293911-llm-affects_component-2",
+            "claim:issue:293911-llm-affects_component-3"
+          ]
+        }
+      ],
+      "metadata": {
+        "entities_searched": 0,
+        "claims_evaluated": 34,
+        "retrieval_time_ms": 261.20300000000003,
+        "intent": {
+          "entity_types": [],
+          "claim_types": [
+            "REPORTED_BY",
+            "AFFECTS_COMPONENT",
+            "FIXED_BY"
+          ],
+          "components": [],
+          "time_filter": null,
+          "keywords": [
+            "which",
+            "issues",
+            "fixed",
+            "pull",
+            "requests"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "query": "What decisions were made about feature requests?",
+    "result": {
+      "query": "What decisions were made about feature requests?",
+      "summary": "Found 11 relevant claims involving 9 Issue(s).",
+      "entities": [
+        {
+          "id": "issue:293911",
+          "type": "Issue",
+          "canonical_name": "when runing opus 6 agents it frezes ",
+          "properties": {
+            "number": 293911,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/293911",
+            "created_at": "2026-02-09T16:28:04Z",
+            "closed_at": "2026-03-08T11:34:44Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "issue:300056",
+          "type": "Issue",
+          "canonical_name": "Unusably slow",
+          "properties": {
+            "number": 300056,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300056",
+            "created_at": "2026-03-08T12:31:32Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:300053",
+          "type": "Issue",
+          "canonical_name": "Add \"Move To -> Editor Area\" to Integrated Terminal Panel Context Menu",
+          "properties": {
+            "number": 300053,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300053",
+            "created_at": "2026-03-08T11:30:21Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:295745",
+          "type": "Issue",
+          "canonical_name": "Chat session history lost when using third-party model agents (Claude) via Copilot Chat",
+          "properties": {
+            "number": 295745,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/295745",
+            "created_at": "2026-02-17T11:42:47Z",
+            "closed_at": null,
+            "comments_count": 15
+          }
+        },
+        {
+          "id": "issue:231227",
+          "type": "Issue",
+          "canonical_name": "The position of a view-line element is set to end of line when view-lines has an offset",
+          "properties": {
+            "number": 231227,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/231227",
+            "created_at": "2024-10-13T08:59:35Z",
+            "closed_at": "2026-03-08T11:37:09Z",
+            "comments_count": 3
+          }
+        },
+        {
+          "id": "issue:299786",
+          "type": "Issue",
+          "canonical_name": "paste is slow with copilot",
+          "properties": {
+            "number": 299786,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299786",
+            "created_at": "2026-03-06T15:41:08Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:294662",
+          "type": "Issue",
+          "canonical_name": "Missing response output for copilot",
+          "properties": {
+            "number": 294662,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/294662",
+            "created_at": "2026-02-11T19:45:25Z",
+            "closed_at": "2026-03-08T11:34:37Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "issue:298482",
+          "type": "Issue",
+          "canonical_name": "SCAMERS ",
+          "properties": {
+            "number": 298482,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/298482",
+            "created_at": "2026-02-28T19:51:47Z",
+            "closed_at": null,
+            "comments_count": 9
+          }
+        },
+        {
+          "id": "issue:299919",
+          "type": "Issue",
+          "canonical_name": "Fish shell frozen in WSL temrinal",
+          "properties": {
+            "number": 299919,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299919",
+            "created_at": "2026-03-07T07:03:06Z",
+            "closed_at": null,
+            "comments_count": 4
+          }
+        }
+      ],
+      "claims": [
+        {
+          "id": "claim:issue:298482-llm-decision-3",
+          "claim_type": "DECISION",
+          "subject_id": "issue:298482",
+          "object_id": null,
+          "value": {
+            "decision": "needs more info",
+            "reason": "missing basic information"
+          },
+          "confidence": 0.95,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 25,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-decision-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "We figured it's missing some basic information or in some other way doesn't follow our [issue reporting guidelines](https://aka.ms/vscodeissuereporting).",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-llm-decision-13",
+          "claim_type": "DECISION",
+          "subject_id": "issue:300056",
+          "object_id": null,
+          "value": {
+            "decision": "needs more info",
+            "reason": "to improve"
+          },
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 8,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-decision-13:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "Maybe something to look into for you, and to improve ...",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-llm-decision-3",
+          "claim_type": "DECISION",
+          "subject_id": "issue:299786",
+          "object_id": null,
+          "value": {
+            "decision": "needs more info",
+            "reason": ""
+          },
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 52,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-decision-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "This happened since the last update got installed.",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-decision-duplicate",
+          "claim_type": "DECISION",
+          "subject_id": "issue:299919",
+          "object_id": null,
+          "value": {
+            "decision": "duplicate",
+            "source": "body"
+          },
+          "confidence": 0.85,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 33,
+              "source_type": "decision_excerpt",
+              "source_id": "issue:299919:body:decision:duplicate",
+              "source_url": null,
+              "excerpt": "<!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-decision-duplicate",
+          "claim_type": "DECISION",
+          "subject_id": "issue:300053",
+          "object_id": null,
+          "value": {
+            "decision": "duplicate",
+            "source": "body"
+          },
+          "confidence": 0.85,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 27,
+              "source_type": "decision_excerpt",
+              "source_id": "issue:300053:body:decision:duplicate",
+              "source_url": null,
+              "excerpt": "- Please search existing issues to avoid creating duplicates. -->",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-decision-5",
+          "claim_type": "DECISION",
+          "subject_id": "issue:293911",
+          "object_id": null,
+          "value": {
+            "decision": "won't fix",
+            "reason": "info-needed"
+          },
+          "confidence": 0.95,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:294662-llm-decision-3",
+          "claim_type": "DECISION",
+          "subject_id": "issue:294662",
+          "object_id": null,
+          "value": {
+            "decision": "won't fix",
+            "reason": "info-needed"
+          },
+          "confidence": 0.95,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:295745-llm-decision-5",
+          "claim_type": "DECISION",
+          "subject_id": "issue:295745",
+          "object_id": null,
+          "value": {
+            "decision": "won't fix",
+            "reason": "by design"
+          },
+          "confidence": 0.7,
+          "validity_start": "2026-02-17T11:42:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 47,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:295745-llm-decision-5:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/295745",
+              "excerpt": "Or wait 1 more week - we will release a new VS Code stable in the middle of next week.",
+              "timestamp": "2026-02-17T11:42:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:295745-decision-duplicate",
+          "claim_type": "DECISION",
+          "subject_id": "issue:295745",
+          "object_id": null,
+          "value": {
+            "decision": "duplicate",
+            "source": "body"
+          },
+          "confidence": 0.85,
+          "validity_start": "2026-02-17T11:42:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:231227-llm-decision-5",
+          "claim_type": "DECISION",
+          "subject_id": "issue:231227",
+          "object_id": null,
+          "value": {
+            "decision": "info-needed",
+            "reason": "missing information"
+          },
+          "confidence": 0.95,
+          "validity_start": "2024-10-13T08:59:35+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:231227-decision-duplicate",
+          "claim_type": "DECISION",
+          "subject_id": "issue:231227",
+          "object_id": null,
+          "value": {
+            "decision": "duplicate",
+            "source": "body"
+          },
+          "confidence": 0.85,
+          "validity_start": "2024-10-13T08:59:35+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        }
+      ],
+      "evidence_snippets": [
+        {
+          "id": 25,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:298482-llm-decision-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "We figured it's missing some basic information or in some other way doesn't follow our [issue reporting guidelines](https://aka.ms/vscodeissuereporting).",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 8,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-decision-13:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "Maybe something to look into for you, and to improve ...",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 52,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-decision-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "This happened since the last update got installed.",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 33,
+          "source_type": "decision_excerpt",
+          "source_id": "issue:299919:body:decision:duplicate",
+          "source_url": null,
+          "excerpt": "<!-- \ud83d\udd0e Search existing issues to avoid creating duplicates. -->",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 27,
+          "source_type": "decision_excerpt",
+          "source_id": "issue:300053:body:decision:duplicate",
+          "source_url": null,
+          "excerpt": "- Please search existing issues to avoid creating duplicates. -->",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 47,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:295745-llm-decision-5:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/295745",
+          "excerpt": "Or wait 1 more week - we will release a new VS Code stable in the middle of next week.",
+          "timestamp": "2026-02-17T11:42:47+00:00",
+          "author_id": null
+        }
+      ],
+      "citations": [
+        "[1] https://github.com/microsoft/vscode/issues/298482",
+        "[2] https://github.com/microsoft/vscode/issues/300056",
+        "[3] https://github.com/microsoft/vscode/issues/299786",
+        "[4] issue:299919:body:decision:duplicate",
+        "[5] issue:300053:body:decision:duplicate",
+        "[6] https://github.com/microsoft/vscode/issues/295745"
+      ],
+      "confidence": 0.6892709834737112,
+      "ambiguities": [
+        {
+          "subject": "issue:295745",
+          "claim_type": "DECISION",
+          "conflicting_values": [
+            "{\"decision\": \"duplicate\", \"source\": \"body\"}",
+            "{\"decision\": \"won't fix\", \"reason\": \"by design\"}"
+          ],
+          "claims": [
+            "claim:issue:295745-llm-decision-5",
+            "claim:issue:295745-decision-duplicate"
+          ]
+        },
+        {
+          "subject": "issue:231227",
+          "claim_type": "DECISION",
+          "conflicting_values": [
+            "{\"decision\": \"duplicate\", \"source\": \"body\"}",
+            "{\"decision\": \"info-needed\", \"reason\": \"missing information\"}"
+          ],
+          "claims": [
+            "claim:issue:231227-llm-decision-5",
+            "claim:issue:231227-decision-duplicate"
+          ]
+        }
+      ],
+      "metadata": {
+        "entities_searched": 0,
+        "claims_evaluated": 11,
+        "retrieval_time_ms": 134.918,
+        "intent": {
+          "entity_types": [],
+          "claim_types": [
+            "DECISION"
+          ],
+          "components": [],
+          "time_filter": null,
+          "keywords": [
+            "decisions",
+            "made",
+            "about",
+            "feature",
+            "requests"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "query": "Who is working on editor-related issues?",
+    "result": {
+      "query": "Who is working on editor-related issues?",
+      "summary": "Found 20 relevant claims involving 9 Person(s), 8 Issue(s), 3 Component(s).",
+      "entities": [
+        {
+          "id": "person:justschen",
+          "type": "Person",
+          "canonical_name": "justschen",
+          "properties": {
+            "github_id": 54879025,
+            "url": "https://github.com/justschen"
+          }
+        },
+        {
+          "id": "person:roblourens",
+          "type": "Person",
+          "canonical_name": "roblourens",
+          "properties": {
+            "github_id": 323878,
+            "url": "https://github.com/roblourens"
+          }
+        },
+        {
+          "id": "issue:300053",
+          "type": "Issue",
+          "canonical_name": "Add \"Move To -> Editor Area\" to Integrated Terminal Panel Context Menu",
+          "properties": {
+            "number": 300053,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300053",
+            "created_at": "2026-03-08T11:30:21Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "person:chrmarti",
+          "type": "Person",
+          "canonical_name": "chrmarti",
+          "properties": {
+            "github_id": 9205389,
+            "url": "https://github.com/chrmarti"
+          }
+        },
+        {
+          "id": "person:mikelward",
+          "type": "Person",
+          "canonical_name": "mikelward",
+          "properties": {
+            "github_id": 107462,
+            "url": "https://github.com/mikelward",
+            "avatar_url": "https://avatars.githubusercontent.com/u/107462?v=4"
+          }
+        },
+        {
+          "id": "component:terminal",
+          "type": "Component",
+          "canonical_name": "Terminal",
+          "properties": {}
+        },
+        {
+          "id": "component:extension",
+          "type": "Component",
+          "canonical_name": "Extension",
+          "properties": {}
+        },
+        {
+          "id": "issue:299786",
+          "type": "Issue",
+          "canonical_name": "paste is slow with copilot",
+          "properties": {
+            "number": 299786,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299786",
+            "created_at": "2026-03-06T15:41:08Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:298482",
+          "type": "Issue",
+          "canonical_name": "SCAMERS ",
+          "properties": {
+            "number": 298482,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/298482",
+            "created_at": "2026-02-28T19:51:47Z",
+            "closed_at": null,
+            "comments_count": 9
+          }
+        },
+        {
+          "id": "issue:293911",
+          "type": "Issue",
+          "canonical_name": "when runing opus 6 agents it frezes ",
+          "properties": {
+            "number": 293911,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/293911",
+            "created_at": "2026-02-09T16:28:04Z",
+            "closed_at": "2026-03-08T11:34:44Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "issue:294662",
+          "type": "Issue",
+          "canonical_name": "Missing response output for copilot",
+          "properties": {
+            "number": 294662,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/294662",
+            "created_at": "2026-02-11T19:45:25Z",
+            "closed_at": "2026-03-08T11:34:37Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "person:dmitrivms",
+          "type": "Person",
+          "canonical_name": "dmitrivMS",
+          "properties": {
+            "github_id": 9581278,
+            "url": "https://github.com/dmitrivMS"
+          }
+        },
+        {
+          "id": "person:savu-a",
+          "type": "Person",
+          "canonical_name": "savu-a",
+          "properties": {
+            "github_id": 123734715,
+            "url": "https://github.com/savu-a",
+            "avatar_url": "https://avatars.githubusercontent.com/u/123734715?v=4"
+          }
+        },
+        {
+          "id": "person:deepak1556",
+          "type": "Person",
+          "canonical_name": "deepak1556",
+          "properties": {
+            "github_id": 964386,
+            "url": "https://github.com/deepak1556"
+          }
+        },
+        {
+          "id": "issue:299807",
+          "type": "Issue",
+          "canonical_name": "update failing to install on Windows",
+          "properties": {
+            "number": 299807,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299807",
+            "created_at": "2026-03-06T16:39:29Z",
+            "closed_at": null,
+            "comments_count": 3
+          }
+        },
+        {
+          "id": "issue:300056",
+          "type": "Issue",
+          "canonical_name": "Unusably slow",
+          "properties": {
+            "number": 300056,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300056",
+            "created_at": "2026-03-08T12:31:32Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "component:editor",
+          "type": "Component",
+          "canonical_name": "Editor",
+          "properties": {}
+        },
+        {
+          "id": "person:amunger",
+          "type": "Person",
+          "canonical_name": "amunger",
+          "properties": {
+            "github_id": 2019016,
+            "url": "https://github.com/amunger",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2019016?v=4"
+          }
+        },
+        {
+          "id": "person:knuddy-ai",
+          "type": "Person",
+          "canonical_name": "Knuddy-ai",
+          "properties": {
+            "github_id": 256777827,
+            "url": "https://github.com/Knuddy-ai",
+            "avatar_url": "https://avatars.githubusercontent.com/u/256777827?v=4"
+          }
+        },
+        {
+          "id": "issue:299919",
+          "type": "Issue",
+          "canonical_name": "Fish shell frozen in WSL temrinal",
+          "properties": {
+            "number": 299919,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299919",
+            "created_at": "2026-03-07T07:03:06Z",
+            "closed_at": null,
+            "comments_count": 4
+          }
+        }
+      ],
+      "claims": [
+        {
+          "id": "claim:issue:300053-reported-by-mikelward",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300053",
+          "object_id": "person:mikelward",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 26,
+              "source_type": "issue_body",
+              "source_id": "issue:300053:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": "person:mikelward"
+            },
+            {
+              "id": 28,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Author: mikelward",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-assigned-to-chrmarti",
+          "claim_type": "ASSIGNED_TO",
+          "subject_id": "issue:300056",
+          "object_id": "person:chrmarti",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 1,
+              "source_type": "issue_metadata",
+              "source_id": "issue:300056:assignee:chrmarti",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "Assigned to @chrmarti",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            },
+            {
+              "id": 6,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-assigned_to-1:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "Assignees: chrmarti",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-reported-by-amunger",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:299807",
+          "object_id": "person:amunger",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 9,
+              "source_type": "issue_body",
+              "source_id": "issue:299807:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": "person:amunger"
+            },
+            {
+              "id": 13,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-reported-by-savu-a",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:293911",
+          "object_id": "person:savu-a",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 62,
+              "source_type": "issue_body",
+              "source_id": "issue:293911:body",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": "person:savu-a"
+            },
+            {
+              "id": 63,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Title: when runing opus 6 agents it frezes",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 31,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-assigned-to-deepak1556",
+          "claim_type": "ASSIGNED_TO",
+          "subject_id": "issue:299807",
+          "object_id": "person:deepak1556",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 14,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-assigned_to-1:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Assignees: deepak1556, dmitrivMS",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-assigned-to-justschen",
+          "claim_type": "ASSIGNED_TO",
+          "subject_id": "issue:300053",
+          "object_id": "person:justschen",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 29,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-assigned_to-1:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Assignees: justschen",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 66,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "VS Code version: Code 1.108.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 30,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "When you right-click inside the integrated terminal panel",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299786",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 51,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299919",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 36,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-assigned-to-roblourens",
+          "claim_type": "ASSIGNED_TO",
+          "subject_id": "issue:293911",
+          "object_id": "person:roblourens",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 64,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-assigned_to-1:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Assignees: roblourens",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300056",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 7,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:294662-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:294662",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 68,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/294662",
+              "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+              "timestamp": "2026-02-11T19:45:25+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-assigned-to-dmitrivMS",
+          "claim_type": "ASSIGNED_TO",
+          "subject_id": "issue:299807",
+          "object_id": "person:dmitrivms",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:extension",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 65,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Extension version: 0.36.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299807",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 15,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Failed to install Visual Studio Code update.",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:298482",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 24,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-reported-by-Knuddy-ai",
+          "claim_type": "REPORTED_BY",
+          "subject_id": "issue:300056",
+          "object_id": "person:knuddy-ai",
+          "value": null,
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:299807-llm-affects_component-4",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299807",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        }
+      ],
+      "evidence_snippets": [
+        {
+          "id": 26,
+          "source_type": "issue_body",
+          "source_id": "issue:300053:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "<!-- \u26a0\ufe0f\u26a0\ufe0f Do Not Delete This! feature_request_template \u26a0\ufe0f\u26a0\ufe0f -->\n<!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->\n<!-- Please search existing issues to avoid creating duplicates. -->\n\n### Feature Description\n\n**Request:**\nAdd \"Editor Area\" to the integrated terminal panel context menu \"Move to\" submenu in VS Code.\n\nWhen you right-click inside the integrated terminal panel, the \"Move to\" submenu only offers \"Primary Side Bar\" and \"Secondary Side Bar\" optio",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": "person:mikelward"
+        },
+        {
+          "id": 28,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Author: mikelward",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 1,
+          "source_type": "issue_metadata",
+          "source_id": "issue:300056:assignee:chrmarti",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "Assigned to @chrmarti",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 6,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-assigned_to-1:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "Assignees: chrmarti",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 9,
+          "source_type": "issue_body",
+          "source_id": "issue:299807:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message\n\n```\n---------------------------\nVisual Studio Code\n---------------------------\nFailed to install Visual Studio Code update.\n\nUpdates may fail due to anti-virus software and/or runaway processes. Please try restarting your machine before attempting to update again.\n\nPlease read the log file for more information:\n\nC:\\Users\\aaron\\AppData\\Local\\Temp\\vscode-inno-updater-1772814834.log\n---------------------------",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": "person:amunger"
+        },
+        {
+          "id": 13,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "I ran `restart to update` on insiders, vscode closes and I see the Windows error message",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 62,
+          "source_type": "issue_body",
+          "source_id": "issue:293911:body",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "\nType: <b>Performance Issue</b>\n\nWhen running Opus 6 agents, while thinking the request freezes,losing contex and still billing for it (the premium request number still went up)\n\nExtension version: 0.36.2\nVS Code version: Code 1.108.2 (c9d77990917f3102ada88be140d28b038d1dd7c7, 2026-01-21T13:52:09.270Z)\nOS version: Windows_NT x64 10.0.26100\nModes:\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\nRemote OS version: Linux x64 6.6.87.2-microsoft-standard-WSL2\n\n<details>\n<summary>Process",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": "person:savu-a"
+        },
+        {
+          "id": 63,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-reported_by-0:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Title: when runing opus 6 agents it frezes",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 31,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 14,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-assigned_to-1:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Assignees: deepak1556, dmitrivMS",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 29,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-assigned_to-1:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Assignees: justschen",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 66,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "VS Code version: Code 1.108.2",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 30,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "When you right-click inside the integrated terminal panel",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 51,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 36,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 64,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-assigned_to-1:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Assignees: roblourens",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 7,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 68,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/294662",
+          "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+          "timestamp": "2026-02-11T19:45:25+00:00",
+          "author_id": null
+        },
+        {
+          "id": 65,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Extension version: 0.36.2",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 15,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Failed to install Visual Studio Code update.",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        }
+      ],
+      "citations": [
+        "[1] https://github.com/microsoft/vscode/issues/300053",
+        "[2] https://github.com/microsoft/vscode/issues/300053",
+        "[3] https://github.com/microsoft/vscode/issues/300056",
+        "[4] https://github.com/microsoft/vscode/issues/300056",
+        "[5] https://github.com/microsoft/vscode/issues/299807",
+        "[6] https://github.com/microsoft/vscode/issues/299807",
+        "[7] https://github.com/microsoft/vscode/issues/293911",
+        "[8] https://github.com/microsoft/vscode/issues/293911",
+        "[9] https://github.com/microsoft/vscode/issues/300053",
+        "[10] https://github.com/microsoft/vscode/issues/299807"
+      ],
+      "confidence": 0.7562171895610248,
+      "ambiguities": [
+        {
+          "subject": "issue:300053",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:terminal",
+            "component:editor"
+          ],
+          "claims": [
+            "claim:issue:300053-llm-affects_component-3",
+            "claim:issue:300053-llm-affects_component-2"
+          ]
+        },
+        {
+          "subject": "issue:299807",
+          "claim_type": "ASSIGNED_TO",
+          "conflicting_values": [
+            "person:dmitrivms",
+            "person:deepak1556"
+          ],
+          "claims": [
+            "claim:issue:299807-assigned-to-deepak1556",
+            "claim:issue:299807-assigned-to-dmitrivMS"
+          ]
+        },
+        {
+          "subject": "issue:293911",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:editor",
+            "component:extension"
+          ],
+          "claims": [
+            "claim:issue:293911-llm-affects_component-3",
+            "claim:issue:293911-llm-affects_component-2"
+          ]
+        },
+        {
+          "subject": "issue:299807",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:terminal",
+            "component:editor"
+          ],
+          "claims": [
+            "claim:issue:299807-llm-affects_component-3",
+            "claim:issue:299807-llm-affects_component-4"
+          ]
+        }
+      ],
+      "metadata": {
+        "entities_searched": 16,
+        "claims_evaluated": 59,
+        "retrieval_time_ms": 458.492,
+        "intent": {
+          "entity_types": [],
+          "claim_types": [
+            "REPORTED_BY",
+            "AFFECTS_COMPONENT",
+            "ASSIGNED_TO"
+          ],
+          "components": [
+            "editor"
+          ],
+          "time_filter": null,
+          "keywords": [
+            "working",
+            "editor",
+            "related",
+            "issues"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "query": "What components have the most bugs?",
+    "result": {
+      "query": "What components have the most bugs?",
+      "summary": "Found 20 relevant claims involving 9 Issue(s), 4 Component(s).",
+      "entities": [
+        {
+          "id": "issue:293911",
+          "type": "Issue",
+          "canonical_name": "when runing opus 6 agents it frezes ",
+          "properties": {
+            "number": 293911,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/293911",
+            "created_at": "2026-02-09T16:28:04Z",
+            "closed_at": "2026-03-08T11:34:44Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "issue:299807",
+          "type": "Issue",
+          "canonical_name": "update failing to install on Windows",
+          "properties": {
+            "number": 299807,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299807",
+            "created_at": "2026-03-06T16:39:29Z",
+            "closed_at": null,
+            "comments_count": 3
+          }
+        },
+        {
+          "id": "component:editor",
+          "type": "Component",
+          "canonical_name": "Editor",
+          "properties": {}
+        },
+        {
+          "id": "issue:300056",
+          "type": "Issue",
+          "canonical_name": "Unusably slow",
+          "properties": {
+            "number": 300056,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300056",
+            "created_at": "2026-03-08T12:31:32Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:300053",
+          "type": "Issue",
+          "canonical_name": "Add \"Move To -> Editor Area\" to Integrated Terminal Panel Context Menu",
+          "properties": {
+            "number": 300053,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/300053",
+            "created_at": "2026-03-08T11:30:21Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:295745",
+          "type": "Issue",
+          "canonical_name": "Chat session history lost when using third-party model agents (Claude) via Copilot Chat",
+          "properties": {
+            "number": 295745,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/295745",
+            "created_at": "2026-02-17T11:42:47Z",
+            "closed_at": null,
+            "comments_count": 15
+          }
+        },
+        {
+          "id": "component:extension",
+          "type": "Component",
+          "canonical_name": "Extension",
+          "properties": {}
+        },
+        {
+          "id": "issue:299786",
+          "type": "Issue",
+          "canonical_name": "paste is slow with copilot",
+          "properties": {
+            "number": 299786,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299786",
+            "created_at": "2026-03-06T15:41:08Z",
+            "closed_at": null,
+            "comments_count": 0
+          }
+        },
+        {
+          "id": "issue:294662",
+          "type": "Issue",
+          "canonical_name": "Missing response output for copilot",
+          "properties": {
+            "number": 294662,
+            "state": "closed",
+            "url": "https://github.com/microsoft/vscode/issues/294662",
+            "created_at": "2026-02-11T19:45:25Z",
+            "closed_at": "2026-03-08T11:34:37Z",
+            "comments_count": 2
+          }
+        },
+        {
+          "id": "component:copilot-chat",
+          "type": "Component",
+          "canonical_name": "Copilot Chat",
+          "properties": {}
+        },
+        {
+          "id": "issue:299919",
+          "type": "Issue",
+          "canonical_name": "Fish shell frozen in WSL temrinal",
+          "properties": {
+            "number": 299919,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/299919",
+            "created_at": "2026-03-07T07:03:06Z",
+            "closed_at": null,
+            "comments_count": 4
+          }
+        },
+        {
+          "id": "issue:298482",
+          "type": "Issue",
+          "canonical_name": "SCAMERS ",
+          "properties": {
+            "number": 298482,
+            "state": "open",
+            "url": "https://github.com/microsoft/vscode/issues/298482",
+            "created_at": "2026-02-28T19:51:47Z",
+            "closed_at": null,
+            "comments_count": 9
+          }
+        },
+        {
+          "id": "component:terminal",
+          "type": "Component",
+          "canonical_name": "Terminal",
+          "properties": {}
+        }
+      ],
+      "claims": [
+        {
+          "id": "claim:issue:299807-has-label-bug",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "bug",
+            "color": "8D6673"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 10,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:bug",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: bug",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 30,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "When you right-click inside the integrated terminal panel",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300053-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300053",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 31,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300053",
+              "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+              "timestamp": "2026-03-08T11:30:21+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299786",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 51,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299786",
+              "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+              "timestamp": "2026-03-06T15:41:08+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299919-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299919",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-03-07T07:03:06+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 36,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299919",
+              "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+              "timestamp": "2026-03-07T07:03:06+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-has-label-install-update",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "install-update",
+            "color": "c5def5"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 11,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:install-update",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: install-update",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-has-label-new release",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:300056",
+          "object_id": null,
+          "value": {
+            "label": "new release",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 2,
+              "source_type": "issue_label",
+              "source_id": "issue:300056:label:new release",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "Label: new release",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-has-label-windows",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299807",
+          "object_id": null,
+          "value": {
+            "label": "windows",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 12,
+              "source_type": "issue_label",
+              "source_id": "issue:299807:label:windows",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Label: windows",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-has-label-triage-needed",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:298482",
+          "object_id": null,
+          "value": {
+            "label": "triage-needed",
+            "color": "D4C5F9"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 21,
+              "source_type": "issue_label",
+              "source_id": "issue:298482:label:triage-needed",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "Label: triage-needed",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:300056-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:300056",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-08T12:31:32+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 7,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/300056",
+              "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+              "timestamp": "2026-03-08T12:31:32+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299807-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:299807",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-03-06T16:39:29+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 15,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/299807",
+              "excerpt": "Failed to install Visual Studio Code update.",
+              "timestamp": "2026-03-06T16:39:29+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-has-label-info-needed",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:298482",
+          "object_id": null,
+          "value": {
+            "label": "info-needed",
+            "color": "E2A1C2"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 20,
+              "source_type": "issue_label",
+              "source_id": "issue:298482:label:info-needed",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "Label: info-needed",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:294662-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:294662",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-11T19:45:25+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 68,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/294662",
+              "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+              "timestamp": "2026-02-11T19:45:25+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-3",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:editor",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 66,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "VS Code version: Code 1.108.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:295745-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:295745",
+          "object_id": "component:copilot-chat",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-17T11:42:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 46,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:295745-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/295745",
+              "excerpt": "Does this issue occur when all extensions are disabled?: No (requires GitHub Copilot Chat extension)",
+              "timestamp": "2026-02-17T11:42:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:298482-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:298482",
+          "object_id": "component:terminal",
+          "value": null,
+          "confidence": 0.8,
+          "validity_start": "2026-02-28T19:51:47+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 24,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/298482",
+              "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+              "timestamp": "2026-02-28T19:51:47+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:293911-llm-affects_component-2",
+          "claim_type": "AFFECTS_COMPONENT",
+          "subject_id": "issue:293911",
+          "object_id": "component:extension",
+          "value": null,
+          "confidence": 0.9,
+          "validity_start": "2026-02-09T16:28:04+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": [
+            {
+              "id": 65,
+              "source_type": "llm_extraction",
+              "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+              "source_url": "https://github.com/microsoft/vscode/issues/293911",
+              "excerpt": "Extension version: 0.36.2",
+              "timestamp": "2026-02-09T16:28:04+00:00",
+              "author_id": null
+            }
+          ]
+        },
+        {
+          "id": "claim:issue:299786-has-label-new release",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299786",
+          "object_id": null,
+          "value": {
+            "label": "new release",
+            "color": "006b75"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:299786-has-label-triage-needed",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:299786",
+          "object_id": null,
+          "value": {
+            "label": "triage-needed",
+            "color": "D4C5F9"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-06T15:41:08+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        },
+        {
+          "id": "claim:issue:300053-has-label-triage-needed",
+          "claim_type": "HAS_LABEL",
+          "subject_id": "issue:300053",
+          "object_id": null,
+          "value": {
+            "label": "triage-needed",
+            "color": "D4C5F9"
+          },
+          "confidence": 1.0,
+          "validity_start": "2026-03-08T11:30:21+00:00",
+          "validity_end": null,
+          "version": 1,
+          "evidence": []
+        }
+      ],
+      "evidence_snippets": [
+        {
+          "id": 10,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:bug",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: bug",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 30,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "When you right-click inside the integrated terminal panel",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 31,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300053-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300053",
+          "excerpt": "Add \"Editor Area\" to the integrated terminal panel context menu",
+          "timestamp": "2026-03-08T11:30:21+00:00",
+          "author_id": null
+        },
+        {
+          "id": 51,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299786-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299786",
+          "excerpt": "With a copilot license, pasting text is extremely slow, sometimes I have to wait 5-6 secs before vscode shows the pasted text",
+          "timestamp": "2026-03-06T15:41:08+00:00",
+          "author_id": null
+        },
+        {
+          "id": 36,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299919-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299919",
+          "excerpt": "Does this issue occur when all extensions are disabled?: Yes",
+          "timestamp": "2026-03-07T07:03:06+00:00",
+          "author_id": null
+        },
+        {
+          "id": 11,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:install-update",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: install-update",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 2,
+          "source_type": "issue_label",
+          "source_id": "issue:300056:label:new release",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "Label: new release",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 12,
+          "source_type": "issue_label",
+          "source_id": "issue:299807:label:windows",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Label: windows",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 21,
+          "source_type": "issue_label",
+          "source_id": "issue:298482:label:triage-needed",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "Label: triage-needed",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 7,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:300056-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/300056",
+          "excerpt": "It is, in general unbearably, slow, to the extend that I have had to give up working.",
+          "timestamp": "2026-03-08T12:31:32+00:00",
+          "author_id": null
+        },
+        {
+          "id": 15,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:299807-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/299807",
+          "excerpt": "Failed to install Visual Studio Code update.",
+          "timestamp": "2026-03-06T16:39:29+00:00",
+          "author_id": null
+        },
+        {
+          "id": 20,
+          "source_type": "issue_label",
+          "source_id": "issue:298482:label:info-needed",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "Label: info-needed",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 68,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:294662-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/294662",
+          "excerpt": "Sometimes, when waitng fo a response from copilot, it says working, then has not output (just blank). But it treats the chat as if there was an output.",
+          "timestamp": "2026-02-11T19:45:25+00:00",
+          "author_id": null
+        },
+        {
+          "id": 66,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-affects_component-3:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "VS Code version: Code 1.108.2",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        },
+        {
+          "id": 46,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:295745-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/295745",
+          "excerpt": "Does this issue occur when all extensions are disabled?: No (requires GitHub Copilot Chat extension)",
+          "timestamp": "2026-02-17T11:42:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 24,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:298482-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/298482",
+          "excerpt": "VS Code version: Code 1.109.3 (b6a47e94e326b5c209d118cf0f994d6065585705, 2026-02-12T17:54:48.470Z)",
+          "timestamp": "2026-02-28T19:51:47+00:00",
+          "author_id": null
+        },
+        {
+          "id": 65,
+          "source_type": "llm_extraction",
+          "source_id": "claim:issue:293911-llm-affects_component-2:evidence",
+          "source_url": "https://github.com/microsoft/vscode/issues/293911",
+          "excerpt": "Extension version: 0.36.2",
+          "timestamp": "2026-02-09T16:28:04+00:00",
+          "author_id": null
+        }
+      ],
+      "citations": [
+        "[1] https://github.com/microsoft/vscode/issues/299807",
+        "[2] https://github.com/microsoft/vscode/issues/300053",
+        "[3] https://github.com/microsoft/vscode/issues/300053",
+        "[4] https://github.com/microsoft/vscode/issues/299786",
+        "[5] https://github.com/microsoft/vscode/issues/299919",
+        "[6] https://github.com/microsoft/vscode/issues/299807",
+        "[7] https://github.com/microsoft/vscode/issues/300056",
+        "[8] https://github.com/microsoft/vscode/issues/299807",
+        "[9] https://github.com/microsoft/vscode/issues/298482",
+        "[10] https://github.com/microsoft/vscode/issues/300056"
+      ],
+      "confidence": 0.7443993823871488,
+      "ambiguities": [
+        {
+          "subject": "issue:299807",
+          "claim_type": "HAS_LABEL",
+          "conflicting_values": [
+            "{\"label\": \"install-update\", \"color\": \"c5def5\"}",
+            "{\"label\": \"windows\", \"color\": \"006b75\"}",
+            "{\"label\": \"bug\", \"color\": \"8D6673\"}"
+          ],
+          "claims": [
+            "claim:issue:299807-has-label-bug",
+            "claim:issue:299807-has-label-install-update",
+            "claim:issue:299807-has-label-windows"
+          ]
+        },
+        {
+          "subject": "issue:300053",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:terminal",
+            "component:editor"
+          ],
+          "claims": [
+            "claim:issue:300053-llm-affects_component-2",
+            "claim:issue:300053-llm-affects_component-3"
+          ]
+        },
+        {
+          "subject": "issue:298482",
+          "claim_type": "HAS_LABEL",
+          "conflicting_values": [
+            "{\"label\": \"triage-needed\", \"color\": \"D4C5F9\"}",
+            "{\"label\": \"info-needed\", \"color\": \"E2A1C2\"}"
+          ],
+          "claims": [
+            "claim:issue:298482-has-label-triage-needed",
+            "claim:issue:298482-has-label-info-needed"
+          ]
+        },
+        {
+          "subject": "issue:293911",
+          "claim_type": "AFFECTS_COMPONENT",
+          "conflicting_values": [
+            "component:editor",
+            "component:extension"
+          ],
+          "claims": [
+            "claim:issue:293911-llm-affects_component-3",
+            "claim:issue:293911-llm-affects_component-2"
+          ]
+        },
+        {
+          "subject": "issue:299786",
+          "claim_type": "HAS_LABEL",
+          "conflicting_values": [
+            "{\"label\": \"triage-needed\", \"color\": \"D4C5F9\"}",
+            "{\"label\": \"new release\", \"color\": \"006b75\"}"
+          ],
+          "claims": [
+            "claim:issue:299786-has-label-new release",
+            "claim:issue:299786-has-label-triage-needed"
+          ]
+        }
+      ],
+      "metadata": {
+        "entities_searched": 0,
+        "claims_evaluated": 37,
+        "retrieval_time_ms": 275.712,
+        "intent": {
+          "entity_types": [],
+          "claim_types": [
+            "AFFECTS_COMPONENT",
+            "HAS_LABEL"
+          ],
+          "components": [],
+          "time_filter": null,
+          "keywords": [
+            "components",
+            "have",
+            "most",
+            "bugs"
+          ]
+        }
+      }
+    }
+  }
+]

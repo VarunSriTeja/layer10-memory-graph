@@ -11,7 +11,7 @@ This project implements a memory graph system that transforms GitHub Issues from
 
 ## Demo
 
-📹 **[Watch the demo video](YOUR_DRIVE_OR_LOOM_LINK_HERE)**
+📹 **[Watch the demo video](https://drive.google.com/file/d/1JZCqRCVH9H7uhFC-cTzwHAHXooSs98WP/view?usp=sharing)**
 
 The video demonstrates:
 - Interactive graph visualization with entity/claim filtering
